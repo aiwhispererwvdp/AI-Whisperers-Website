@@ -1,0 +1,18 @@
+╭───────────────────────────────────────────────────╮
+│ ✻ Welcome to Claude Code!                         │
+│                                                   │
+│   /help for help, /status for your current setup  │
+│                                                   │
+│   cwd: C:\Users\jandr\Documents\ivan\website      │
+╰───────────────────────────────────────────────────╯
+● Compact summary (ctrl+r to expand)
+  ⎿  Read website-development\ai-consultancy-website\src\lib\themes\colorThemes.ts (374 lines)
+  ⎿  Read website-development\ai-consultancy-website\themes\colors\colorTheme.ts (821 lines)
+  ⎿  Read website-development\ai-consultancy-website\src\components\pages\PricingPage.tsx (301 lines)
+  ⎿  Read website-development\ai-consultancy-website\src\components\pages\DynamicHomepage.tsx (433 lines)
+  ⎿  Read website-development\ai-consultancy-website\src\components\pages\EnhancedBlogPage.tsx (535 lines)
+  ⎿  Todo list read (66 items)
+  ⎿  Claude usage limit reached. Your limit will reset at 2pm (America/Asuncion).
+
+      • /upgrade to increase your usage limit.
+
